@@ -6,4 +6,4 @@ function goToNextPage() {
 }
 setTimeout(function() {
     document.getElementById('top-banner').style.display = 'block';
-}, 10000);
+}, 6000);
